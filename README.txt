@@ -1,8 +1,8 @@
-# CLIKS Staycation and Condo Rentals
+#CLIKS Staycation and Condo Rentals
 
 Welcome to the official website repository of **CLIKS Staycation and Condo Rentals** – your cozy home-away-from-home located near prime city destinations. This site showcases available units, a gallery of the spaces, and an easy contact form that connects directly to Messenger.
 
-## 📌 Features
+##📌 Features
 
 - Homepage with branding and service highlights  
 - Unit listings with images and details  
@@ -11,11 +11,11 @@ Welcome to the official website repository of **CLIKS Staycation and Condo Renta
 - Mobile-responsive layout  
 - Modern UI using Bootstrap and Materialize CSS
 
-## 🚀 Deployment
+##🚀 Deployment
 
 This site is designed for static hosting (e.g., GitHub Pages, Netlify). No backend or database is required. Messages are composed using a form and then passed to Facebook Messenger via clipboard + user redirection.
 
-## 💡 How It Works
+##💡 How It Works
 
 On the **Contact** page:
 - Visitors fill out their name, email, and message.
@@ -23,7 +23,7 @@ On the **Contact** page:
 - SweetAlert notifies them, and a Messenger tab opens.
 - They paste and send the message manually to either the page or the manager.
 
-## 📁 Structure Overview
+##📁 Structure Overview
 
 📁 css/
 📁 js/
@@ -36,7 +36,7 @@ On the **Contact** page:
 📄 README.md
  
 
-## 🧾 Credits
+##🧾 Credits
 
 Thanks to the following resources that made this project possible:
 
